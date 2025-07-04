@@ -70,31 +70,3 @@ PowerShell running as Administrator.
 AD PowerShell module available.
 
 Domain-joined environment.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
